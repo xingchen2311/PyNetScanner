@@ -38,6 +38,6 @@ python main.py
 请在合法范围内使用
 
 支持Windows/Linux系统
-windows系统需额外安装npmap
+windows系统需额外安装npcap
 
 npmap网址:https://npcap.com/#download
