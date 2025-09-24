@@ -1,4 +1,4 @@
-# 网络扫描工具 v1.0
+# 网络扫描工具PyNetScanner v1.0
 ## 简介
 一个简单的基于python的scapy和socket库编写的网络扫描工具，集成了主机发现、端口扫描和banner探测功能。
 
